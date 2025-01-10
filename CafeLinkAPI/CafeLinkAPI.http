@@ -1,0 +1,6 @@
+@CafeLinkAPI_HostAddress = http://localhost:5104
+
+GET {{CafeLinkAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
