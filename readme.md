@@ -1,3 +1,23 @@
+# API Documentation for CafeLink 🎧✮☕
+
+---
+
+## Deskripsi
+
+---
+
+CaféLink adalah platform inovatif yang menghubungkan pecinta kopi dengan kafe terbaik berdasarkan preferensi seperti lokasi, harga, jenis kopi, dan suasana. Dengan fitur pencarian canggih, personalisasi, dan halaman detail kafe yang mencakup menu, ulasan, serta deskripsi suasana, CaféLink mempermudah pengguna dalam menemukan dan menyimpan kafe favorit mereka. Menggabungkan teknologi modern dan antarmuka intuitif, CaféLink menciptakan pengalaman eksplorasi kopi yang cepat, relevan, dan menarik.
+
+## Links
+
+---
+
+- 🔗[Website CafeLink](https://cafelink.vercel.app/)
+- 🔗[API Documentation Swagger CafeLink](https://cafelinkapi.fly.dev/swagger/index.html)
+- 🔗[Dokumen Laporan](https://docs.google.com/document/d/13BVkPa08oXTuf2T45C-E4PyelhkstBKWkhu_pnfjGnk/edit?usp=sharing)
+- 🔗[Repository Frontend](https://github.com/thalitazhrr/CafeLink-TST)
+- Integrasi dengan Teman: 🔗[API Documentation Swagger BucketQuest yang Saya Gunakan](https://bucketquestapi.fly.dev/swagger/index.html)
+
 ## Endpoints
 
 ### 1. User Registration
